@@ -12,7 +12,7 @@ header {
     width: 1400px;
     opacity: 100;
 }
-header img{
+.logo{
     height: 52.06px;
     width: 119.37px;
     margin-top: 10px;
@@ -30,6 +30,7 @@ ul li {
 ul li a {
     margin-top: 25px;
     margin-bottom: 29px;
+    padding: 10px;
     font-family: 'Montserrat, Regular';
     width: 61px;
     height: 18px;
@@ -38,9 +39,4 @@ ul li a {
     text-decoration: none;
     font-size: 14px;
     opacity: 100;
-}
-
-}
-
-
 }
