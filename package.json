@@ -1,0 +1,24 @@
+{
+  "name": "baigiamasis",
+  "version": "1.0.0",
+  "description": "baigiamasis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gintareber/baigiamasis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gintareber/baigiamasis/issues"
+  },
+  "homepage": "https://github.com/gintareber/baigiamasis#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.1",
+    "gulp-autoprefixer": "^6.1.0"
+  }
+}
