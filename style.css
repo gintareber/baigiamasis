@@ -21,7 +21,7 @@ header img{
     display: inline-block;
 }
 ul {
-    margin-top: 25px;
+    margin-top: -25px;
     margin-left: 808px;
 }
 ul li {
@@ -30,7 +30,6 @@ ul li {
 }
 ul li a {
     margin-top: -25px;
-    margin-bottom: 29px;
     font-family: 'Montserrat, Regular';
     color: #FFFFFF;
     text-align: right;
