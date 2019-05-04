@@ -7,8 +7,39 @@ body{
     margin: 0;
 }
 header {
-    background: black;
+    background:#1C1C1C;
     height: 72px;
     width: 1400px;
     opacity: 100;
+}
+header img{
+    height: 52.06px;
+    width: 119.37px;
+    margin-top: 10px;
+    margin-bottom: 9.94px;
+    margin-left: 147.04px;
+    display: inline-block;
+}
+ul {
+    margin-top: -25px;
+    margin-left: 808px;
+}
+ul li {
+    display: inline-block;
+}
+ul li a {
+    margin-top: 25px;
+    font-family: 'Montserrat, Regular';
+    width: 61px;
+    height: 18px;
+    color: #FFFFFF;
+    text-align: right;
+    text-decoration: none;
+    font-size: 14px;
+    opacity: 100;
+}
+
+}
+
+
 }
