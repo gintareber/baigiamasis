@@ -12,7 +12,7 @@ header {
     width: 1400px;
     opacity: 100;
 }
-.logo{
+header img{
     height: 52.06px;
     width: 119.37px;
     margin-top: 10px;
@@ -37,4 +37,9 @@ ul li a {
     text-decoration: none;
     font-size: 14px;
     opacity: 100;
+}
+main {
+    background-image: url(component.png);
+    width: 1400px;
+    height: 639px;
 }
