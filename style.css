@@ -2,3 +2,13 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     color: white;
 }
+body{
+    background-color: white;
+    margin: 0;
+}
+header {
+    background: black;
+    height: 72px;
+    width: 1400px;
+    opacity: 100;
+}
