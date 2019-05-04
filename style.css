@@ -25,15 +25,13 @@ ul {
     margin-left: 808px;
 }
 ul li {
+    margin-top: -25px;
     display: inline-block;
 }
 ul li a {
-    margin-top: 25px;
+    margin-top: -25px;
     margin-bottom: 29px;
-    padding: 10px;
     font-family: 'Montserrat, Regular';
-    width: 61px;
-    height: 18px;
     color: #FFFFFF;
     text-align: right;
     text-decoration: none;
